@@ -1,0 +1,26 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klf006/Sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klf006/Sandbox/issues"
+  },
+  "homepage": "https://github.com/klf006/Sandbox#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
